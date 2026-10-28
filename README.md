@@ -1,4 +1,4 @@
-#Supplier Intelligence RAG Platform
+Supplier Intelligence RAG Platform
 Enterprise Supplier Information, Sourcing, Risk, Performance & Supply Chain Intelligence
 
 Architecture and Engineering Blueprint | Java · Spring Boot · PostgreSQL · pgvector · Vue.js · TypeScript · MCP · AWS EKS

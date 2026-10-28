@@ -927,7 +927,7 @@ ollama pull <supported-local-embedding-model>
 ollama list
 ```
 
-Select models compatible with your hardware and evaluate their quality.
+Select models compatible with hardware and evaluate their quality.
 
 ### Build the Backend
 
@@ -1389,9 +1389,9 @@ Avoid logging confidential documents, credentials, or unnecessary personal data.
 - [Terraform](https://developer.hashicorp.com/terraform/docs)
 - [OpenTelemetry](https://opentelemetry.io/docs/)
 
-## Final Architectural Recommendation
+## Architectural Recommendation
 
-Start with a modular Spring Boot application, PostgreSQL with pgvector, a provider-neutral AI harness, and a Vue.js conversational interface.
+We should start with a modular Spring Boot application, PostgreSQL with pgvector, a provider-neutral AI harness, and a Vue.js conversational interface.
 
 Prioritize authoritative supplier data access, permission-aware retrieval, citations, explainability, and evaluation before introducing complex autonomous agent workflows.
 

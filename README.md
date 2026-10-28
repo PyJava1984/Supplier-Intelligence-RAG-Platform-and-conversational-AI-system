@@ -1393,8 +1393,6 @@ Avoid logging confidential documents, credentials, or unnecessary personal data.
 
 We should start with a modular Spring Boot application, PostgreSQL with pgvector, a provider-neutral AI harness, and a Vue.js conversational interface.
 
-Prioritize authoritative supplier data access, permission-aware retrieval, citations, explainability, and evaluation before introducing complex autonomous agent workflows.
+Will prioritize authoritative supplier data access, permission-aware retrieval, citations, explainability, and evaluation before introducing complex autonomous agent workflows.
 
-Keep fine-tuning, advanced reranking, dynamic chunking experiments, and additional model providers configurable and independently testable.
-
-> **Implementation note:** This README describes the proposed target architecture. The repository must contain the corresponding application code, configuration, tests, and deployment manifests before the documented commands can be considered executable.
+Will keep fine-tuning, advanced reranking, dynamic chunking experiments, and additional model providers configurable and independently testable.
